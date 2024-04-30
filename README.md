@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @GovindSharma0708
  Languages: JavaScript, C++, C
-- Frontend: React, Firebase, HTML5, CSS, Tailwind CSS
+- Frontend: React, Firebase, HTML5, CSS, Tailwind CSS,Zod
 - Backend: Node.js, Express.js,Vite-js
 - Databases: MongoDB,MySQL,Postgress,Postman
-- Tools: Git,GitHub,VS Code,GitHub Co-pilot,
+- Tools: Git,GitHub,VS Code,GitHub Co-pilot,Github Desktop,Netlify,Vercel,Backbox,Replit
 
 <!---
 GovindSharma0708/GovindSharma0708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

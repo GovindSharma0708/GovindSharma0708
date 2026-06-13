@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Govind Sharma 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer & AI Engineer</b> · MMMUT Gorakhpur, CSE Final Year<br/>
+  <b>Full Stack Developer & AI Engineer</b> ·<br/>
   Building production AI systems with LangGraph, FastAPI, and the MERN stack
 </p>
 
